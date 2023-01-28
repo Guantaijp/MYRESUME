@@ -390,7 +390,7 @@ form .btn2{
     
 #header{
     width: 100%;
-    height: 55vh;
+    height: 60vh;
     background-image: url(photos/background.jpeg) ;
     background-image: position(fixed, 0);
     background-size: cover;
